@@ -51,13 +51,12 @@ RUN pip3 -V \
 
 RUN pip3 install --upgrade markupsafe==2.1.2
 
-################# custom tools using mamba #################
+################# custom tools #################
 COPY mamba-requirements.yaml /etc/terra-docker/
-COPY python_requirements.txt /etc/terra-docker/
 RUN conda install -c conda-forge mamba
 RUN mamba env update -f /etc/terra-docker/mamba-requirements.yaml
-RUN pip3 install --upgrade -r /etc/terra-docker/python_requirements.txt
 ################# end custom tools section ######
+
 
 ENV USER jupyter
 USER $USER
