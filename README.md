@@ -1,5 +1,6 @@
 # Terra_test
 This is s repository of testing terra 
+[![Open](https://img.shields.io/badge/Open-Dockstore-blue)]((https://dockstore.org/workflows/github.com/jiangaing/Terra_test:main?tab=info))
 
 ## Workflow Steps
 
@@ -18,3 +19,7 @@ This is s repository of testing terra
   - `sorted_bam` :Sorted bam file
 - **FeatureCount**:
    - `raw_count_file`: Text file containing raw gene expression count
+ 
+- ## Acknowledgement
+
+- [https://github.com/anand-imcm)](https://github.com/anand-imcm)
