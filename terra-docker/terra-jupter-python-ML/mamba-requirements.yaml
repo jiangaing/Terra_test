@@ -1,7 +1,0 @@
-name: base
-channels:
-  - conda-forge
-  - bioconda
-  - defaults
-dependencies:
-  - synapseclient
