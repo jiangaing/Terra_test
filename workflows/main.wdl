@@ -16,7 +16,7 @@ workflow main {
 
     parameter_meta {
         bam_file : "bam file"
-        annotated_reference : "mapping reference as bed file"
+        annotated_reference : "gff file"
         prefix : "Sample name"
     }
 
