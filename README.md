@@ -25,4 +25,4 @@ This is a repository of testing terra
  
 - ## Acknowledgement
 
-- Anand Maurya [https://github.com/anand-imcm)](https://github.com/anand-imcm)
+- Anand Maurya [https://github.com/anand-imcm](https://github.com/anand-imcm)
