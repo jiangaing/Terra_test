@@ -1,6 +1,7 @@
 # Terra_test
-This is s repository of testing terra 
-[![Open](https://img.shields.io/badge/Open-Dockstore-blue)]((https://dockstore.org/workflows/github.com/jiangaing/Terra_test:main?tab=info))
+[![Open](https://img.shields.io/badge/Open-Dockstore-blue)]((https://dockstore.org/workflows/github.com/jiangaing/Terra_test:main?tab=info)
+This is a repository of testing terra 
+
 
 ## Workflow Steps
 
