@@ -1,7 +1,9 @@
 # Terra_test
-[![Open](https://img.shields.io/badge/Open-Dockstore-blue)]((https://dockstore.org/workflows/github.com/jiangaing/Terra_test:main?tab=info)
+[![Open](https://img.shields.io/badge/Open-Dockstore-blue)](https://dockstore.org/workflows/github.com/jiangaing/Terra_test:main?tab=info)
 This is a repository of testing terra 
 
+> [!TIP]
+> To import the workflow into your Terra workspace, click on the above Dockstore badge, and select 'Terra' from the 'Launch with' widget on the Dockstore workflow page.
 
 ## Workflow Steps
 
