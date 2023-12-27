@@ -6,7 +6,7 @@ import "./tasks/feature_count.wdl" as count
 workflow main {
 
     String pipeline_version = "1.0"
-    String container_src = "ghcr.io/jiangaing/erra-docker-jupyter-python-bam-test~{pipeline_version}"
+    String container_src = "ghcr.io/jiangaing/terra-docker-jupyter-python-bam-test~{pipeline_version}"
     
     input {
         File raw_bam_file
