@@ -14,7 +14,7 @@ This is a repository of testing terra
 - ## Inputs
 
 - **raw_bam_file**: Input aligned file in .bam format.
-- **raw_annotated_reference**: Human reference genome .gff file (General Feature Format). The version being used is GRCh38 release110 ([source](ftp://ftp.ensembl.org/pub/release-110/gff3/homo_sapiens/Homo_sapiens.GRCh38.110.gff3.gz)).
+- **raw_annotated_reference**: Human reference genome .gff file (General Feature Format). The version being used is GRCh38 release110 ([source](ftp://ftp.ensembl.org/pub/release-110/gff3/homo_sapiens/Homo_sapiens.GRCh38.110.gff3.gz).
 
 - ## Outputs
 
@@ -25,4 +25,4 @@ This is a repository of testing terra
  
 - ## Acknowledgement
 
-- Anand Maurya [https://github.com/anand-imcm](https://github.com/anand-imcm)
+- Anand Maurya: [https://github.com/anand-imcm](https://github.com/anand-imcm)
