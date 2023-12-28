@@ -39,6 +39,6 @@ The main output files are listed below:
   - pegi3s/feature-counts
   - ensemblorg/ensembl-vep
  
-- ## Acknowledgement
+ ## Acknowledgement
 
 - Anand Maurya: [https://github.com/anand-imcm](https://github.com/anand-imcm)
